@@ -4,7 +4,7 @@ Trabajo de Fin de Grado del Grado en Matemáticas.
 Departamento de Ciencias de la Computación e Inteligencia Artificial, Universidad de Sevilla.
 
 - **Autora**: Jacquelina Ruiz Dontsova
-- **Directores**: Antonio Ramírez de Arellano Marrero y Andrés Nicolás Uranga Limón
+- **Tutores**: Antonio Ramírez de Arellano Marrero y Andrés Nicolás Uranga Limón
 
 Este proyecto consiste en la creación de un modelo para crear playlists de transiciones coherentes entre dos canciones dadas. El problema se reformula como un problema del camino más corto en un grafo no dirigido y ponderado en el que:
 - los **vértices** son canciones
